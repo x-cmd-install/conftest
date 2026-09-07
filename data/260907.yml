@@ -5,7 +5,7 @@ about:
   head: 04eb67e
   archived: false
   latestVersion: "v0.69.0"
-  collectedAt: 2026-09-07T05:45:39Z
+  collectedAt: 2026-09-07T18:42:45Z
 timeline:
   created: 2019-03-28
   lastCommit: 2026-08-24
@@ -16,7 +16,7 @@ popularity:
   fork: 359
   release: 98
   contributor: 136
-  pullRequest: 1032
+  pullRequest: 1035
   issue: 381
 language:
   Go: 336183
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 6
-    openPR: 10
+    openPR: 11
     closedIssue: 0
     openIssue: 2
     commit: 13
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-09
     release: 1
     mergedPR: 22
-    openPR: 11
+    openPR: 12
     closedIssue: 0
     openIssue: 3
     commit: 29
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-09
     release: 1
     mergedPR: 35
-    openPR: 11
+    openPR: 12
     closedIssue: 1
     openIssue: 3
     commit: 47
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-11
     release: 6
     mergedPR: 65
-    openPR: 13
+    openPR: 14
     closedIssue: 7
     openIssue: 4
     commit: 69
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-12
     release: 10
     mergedPR: 134
-    openPR: 15
+    openPR: 16
     closedIssue: 13
     openIssue: 6
     commit: 133
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-17
     release: 19
     mergedPR: 244
-    openPR: 18
+    openPR: 19
     closedIssue: 40
     openIssue: 12
     commit: 261
 total:
   release: 98
   mergedPR: 827
-  openPR: 19
+  openPR: 20
   closedIssue: 346
   openIssue: 35
   commit: 1280
 ---
 path: /home/runner/.x-repo/github.com/open-policy-agent/conftest
-collectedAt: 2026-09-07T05:45:40Z
+collectedAt: 2026-09-07T18:42:46Z
 loc:
   Go:
     code: 10808
@@ -312,7 +312,7 @@ checks:
       - 'Info:   0 out of   1 goCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:45:40+00:00
+  collectedAt: 2026-09-07T18:42:47+00:00
   platform:
     darwin/arm64:
       name:  conftest_0.69.0_Darwin_arm64.tar.gz
