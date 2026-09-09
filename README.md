@@ -7,7 +7,7 @@ Write tests against structured configuration data using the Open Policy Agent Re
 - **Latest release**: `v0.69.0` (2026-08-03)
 - **Last commit**: 2026-09-08
 - **License**: NOASSERTION
-- **Stars**: 3258 · **Forks**: 360 · **Open issues**: 381 · **Contributors**: 136
+- **Stars**: 3258 · **Forks**: 361 · **Open issues**: 381 · **Contributors**: 136
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/conftest> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:53:29Z._
+_Last regenerated: 2026-09-09T20:13:23Z._
