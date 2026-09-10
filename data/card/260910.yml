@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.69.0"
   latestRelease: "v0.69.0"
   latestPrerelease: "v0.5.0"
-  collectedAt: 2026-09-10T20:21:48Z
+  collectedAt: 2026-09-10T23:25:08Z
 timeline:
   created: 2019-03-28
   lastCommit: 2026-09-08
@@ -89,7 +89,7 @@ total:
   commit: 1283
 ---
 path: /home/runner/.x-repo/github.com/open-policy-agent/conftest
-collectedAt: 2026-09-10T20:21:50Z
+collectedAt: 2026-09-10T23:25:09Z
 loc:
   Go:
     code: 10759
