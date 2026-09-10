@@ -12,36 +12,7 @@ Write tests against structured configuration data using the Open Policy Agent Re
 x install conftest
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/open-policy-agent/conftest>
-- **Homepage**: <https://conftest.dev>
-- **License**: NOASSERTION
-
-## Release
-
-- **Latest**: `v0.69.0` (2026-08-03)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 17
-- **Published**: 2026-08-03T10:29:26Z
-
-## Popularity
-
-- **Stars**: 3,258 · **Forks**: 361 · **Open issues**: 381 · **Contributors**: 136
-
-## Totals (cumulative)
-
-- **Releases**: 98 · **Merged PRs**: 830 · **Open PRs**: 18 · **Closed issues**: 346 · **Open issues**: 35 · **Commits**: 1283
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 9 | 8 | 0 | 2 | 16 |
-| 90d | 2026-06-12 | 1 | 37 | 10 | 0 | 3 | 50 |
-| 360d | 2025-09-15 | 10 | 137 | 14 | 13 | 6 | 136 |
-
-## Code size
+## Code insight
 
 Total: **13,431** lines of code across **240** files in the top 5 languages.
 
@@ -63,13 +34,76 @@ Lowest-scoring checks:
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
+## Source
+
+- **Upstream**: <https://github.com/open-policy-agent/conftest>
+- **Homepage**: <https://conftest.dev>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `v0.69.0` (2026-08-03)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 3,259 · **Forks**: 360 · **Open issues**: 381 · **Contributors**: 136
+
+## Totals (cumulative)
+
+- **Releases**: 98 · **Merged PRs**: 830 · **Open PRs**: 19 · **Closed issues**: 346 · **Open issues**: 35 · **Commits**: 1283
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 9 | 9 | 0 | 2 | 16 |
+| last60d | 2026-07-12 | 1 | 25 | 11 | 0 | 3 | 32 |
+| 90d | 2026-06-12 | 1 | 37 | 11 | 0 | 3 | 50 |
+| last180d | 2026-03-14 | 5 | 63 | 13 | 7 | 4 | 72 |
+| 360d | 2025-09-15 | 10 | 137 | 15 | 13 | 6 | 136 |
+| last720d | 2024-09-20 | 19 | 247 | 18 | 39 | 12 | 263 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/checksums.txt) | 1.6 KiB | `other` |
+| [conftest_0.69.0_Darwin_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Darwin_arm64.tar.gz) | 20.1 MiB | `native/darwin/arm64` |
+| [conftest_0.69.0_Darwin_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Darwin_x86_64.tar.gz) | 21.6 MiB | `native/darwin/x64` |
+| [conftest_0.69.0_Linux_arm64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_arm64.deb) | 19.0 MiB | `native/linux/arm64` |
+| [conftest_0.69.0_Linux_arm64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_arm64.rpm) | 18.9 MiB | `native/linux/arm64` |
+| [conftest_0.69.0_Linux_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_arm64.tar.gz) | 19.0 MiB | `native/linux/arm64` |
+| [conftest_0.69.0_Linux_ppc64le.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_ppc64le.deb) | 18.9 MiB | `other` |
+| [conftest_0.69.0_Linux_ppc64le.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_ppc64le.rpm) | 18.8 MiB | `other` |
+| [conftest_0.69.0_Linux_ppc64le.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_ppc64le.tar.gz) | 18.9 MiB | `native/unknown` |
+| [conftest_0.69.0_Linux_s390x.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_s390x.deb) | 20.3 MiB | `runtime/deb/s390x` |
+| [conftest_0.69.0_Linux_s390x.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_s390x.rpm) | 20.2 MiB | `other` |
+| [conftest_0.69.0_Linux_s390x.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_s390x.tar.gz) | 20.3 MiB | `native/unknown` |
+| [conftest_0.69.0_Linux_x86_64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_x86_64.deb) | 21.0 MiB | `native/linux/x64` |
+| [conftest_0.69.0_Linux_x86_64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_x86_64.rpm) | 20.9 MiB | `native/linux/x64` |
+| [conftest_0.69.0_Linux_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_x86_64.tar.gz) | 21.0 MiB | `native/linux/x64` |
+| [conftest_0.69.0_Windows_arm64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Windows_arm64.zip) | 19.1 MiB | `native/win/arm64` |
+| [conftest_0.69.0_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Windows_x86_64.zip) | 21.5 MiB | `native/win/x64` |
+
+## Distribution status
+
+Reported by **16** distros on [repology.org](https://repology.org/project/conftest). **5** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.69.0` | ✅ latest |
+| Nix unstable | `0.63.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.69.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `conftest` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/conftest.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/conftest.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T06:01:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:21:57Z._
