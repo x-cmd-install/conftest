@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.69.0"
   latestRelease: "v0.69.0"
   latestPrerelease: "v0.5.0"
-  collectedAt: 2026-09-11T05:52:24Z
+  collectedAt: 2026-09-11T19:07:39Z
 timeline:
   created: 2019-03-28
   lastCommit: 2026-09-08
@@ -17,10 +17,10 @@ timeline:
 popularity:
   star: 3259
   watcher: 23
-  fork: 360
+  fork: 361
   release: 98
   contributor: 136
-  pullRequest: 1037
+  pullRequest: 1038
   issue: 381
 language:
   Go: 335608
@@ -36,7 +36,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 9
-    openPR: 9
+    openPR: 10
     closedIssue: 0
     openIssue: 1
     commit: 16
@@ -44,7 +44,7 @@ recent:
     since: 2026-07-13
     release: 1
     mergedPR: 24
-    openPR: 11
+    openPR: 12
     closedIssue: 0
     openIssue: 3
     commit: 32
@@ -52,7 +52,7 @@ recent:
     since: 2026-06-13
     release: 1
     mergedPR: 37
-    openPR: 11
+    openPR: 12
     closedIssue: 0
     openIssue: 3
     commit: 50
@@ -60,7 +60,7 @@ recent:
     since: 2026-03-15
     release: 5
     mergedPR: 63
-    openPR: 13
+    openPR: 14
     closedIssue: 7
     openIssue: 4
     commit: 72
@@ -68,7 +68,7 @@ recent:
     since: 2025-09-16
     release: 10
     mergedPR: 136
-    openPR: 15
+    openPR: 16
     closedIssue: 13
     openIssue: 6
     commit: 136
@@ -76,20 +76,20 @@ recent:
     since: 2024-09-21
     release: 19
     mergedPR: 247
-    openPR: 18
+    openPR: 19
     closedIssue: 39
     openIssue: 12
     commit: 263
 total:
   release: 98
   mergedPR: 830
-  openPR: 19
+  openPR: 20
   closedIssue: 346
   openIssue: 35
   commit: 1283
 ---
 path: /home/runner/.x-repo/github.com/open-policy-agent/conftest
-collectedAt: 2026-09-11T05:52:26Z
+collectedAt: 2026-09-11T19:07:41Z
 loc:
   Go:
     code: 10759
