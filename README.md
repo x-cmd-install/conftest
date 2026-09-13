@@ -14,11 +14,11 @@ x install conftest
 
 ## Code insight
 
-Total: **13,431** lines of code across **240** files in the top 5 languages.
+Total: **13,607** lines of code across **240** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 10,759 | 599 | 1,733 | 111 |
+| Go | 10,935 | 626 | 1,752 | 111 |
 | OpenPolicyAgent | 1,217 | 67 | 267 | 83 |
 | Yaml | 481 | 2 | 5 | 33 |
 | Sh | 181 | 27 | 40 | 4 |
@@ -42,60 +42,60 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.69.0` (2026-08-03)
-- **Last commit**: 2026-09-08
+- **Latest**: `v0.70.0` (2026-09-12)
+- **Last commit**: 2026-09-12
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 3,259 · **Forks**: 361 · **Open issues**: 381 · **Contributors**: 136
+- **Stars**: 3,260 · **Forks**: 360 · **Open issues**: 381 · **Contributors**: 139
 
 ## Totals (cumulative)
 
-- **Releases**: 98 · **Merged PRs**: 830 · **Open PRs**: 20 · **Closed issues**: 346 · **Open issues**: 35 · **Commits**: 1283
+- **Releases**: 99 · **Merged PRs**: 838 · **Open PRs**: 11 · **Closed issues**: 349 · **Open issues**: 32 · **Commits**: 1291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 9 | 10 | 0 | 1 | 16 |
-| last60d | 2026-07-14 | 1 | 24 | 12 | 0 | 3 | 32 |
-| 90d | 2026-06-14 | 1 | 37 | 12 | 0 | 3 | 50 |
-| last180d | 2026-03-16 | 5 | 63 | 14 | 7 | 4 | 72 |
-| 360d | 2025-09-17 | 10 | 135 | 16 | 13 | 6 | 136 |
-| last720d | 2024-09-22 | 19 | 247 | 19 | 39 | 12 | 263 |
+| 30d | 2026-08-14 | 1 | 16 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-15 | 2 | 32 | 3 | 1 | 2 | 0 |
+| 90d | 2026-06-15 | 2 | 43 | 3 | 1 | 2 | 0 |
+| last180d | 2026-03-17 | 6 | 71 | 5 | 9 | 2 | 0 |
+| 360d | 2025-09-18 | 11 | 143 | 7 | 15 | 4 | 0 |
+| last720d | 2024-09-23 | 20 | 255 | 10 | 41 | 10 | 271 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/checksums.txt) | 1.6 KiB | `other` |
-| [conftest_0.69.0_Darwin_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Darwin_arm64.tar.gz) | 20.1 MiB | `native/darwin/arm64` |
-| [conftest_0.69.0_Darwin_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Darwin_x86_64.tar.gz) | 21.6 MiB | `native/darwin/x64` |
-| [conftest_0.69.0_Linux_arm64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_arm64.deb) | 19.0 MiB | `native/linux/arm64` |
-| [conftest_0.69.0_Linux_arm64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_arm64.rpm) | 18.9 MiB | `native/linux/arm64` |
-| [conftest_0.69.0_Linux_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_arm64.tar.gz) | 19.0 MiB | `native/linux/arm64` |
-| [conftest_0.69.0_Linux_ppc64le.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_ppc64le.deb) | 18.9 MiB | `other` |
-| [conftest_0.69.0_Linux_ppc64le.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_ppc64le.rpm) | 18.8 MiB | `other` |
-| [conftest_0.69.0_Linux_ppc64le.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_ppc64le.tar.gz) | 18.9 MiB | `native/unknown` |
-| [conftest_0.69.0_Linux_s390x.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_s390x.deb) | 20.3 MiB | `runtime/deb/s390x` |
-| [conftest_0.69.0_Linux_s390x.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_s390x.rpm) | 20.2 MiB | `other` |
-| [conftest_0.69.0_Linux_s390x.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_s390x.tar.gz) | 20.3 MiB | `native/unknown` |
-| [conftest_0.69.0_Linux_x86_64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_x86_64.deb) | 21.0 MiB | `native/linux/x64` |
-| [conftest_0.69.0_Linux_x86_64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_x86_64.rpm) | 20.9 MiB | `native/linux/x64` |
-| [conftest_0.69.0_Linux_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Linux_x86_64.tar.gz) | 21.0 MiB | `native/linux/x64` |
-| [conftest_0.69.0_Windows_arm64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Windows_arm64.zip) | 19.1 MiB | `native/win/arm64` |
-| [conftest_0.69.0_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.69.0/conftest_0.69.0_Windows_x86_64.zip) | 21.5 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/checksums.txt) | 1.6 KiB | `other` |
+| [conftest_0.70.0_Darwin_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Darwin_arm64.tar.gz) | 20.7 MiB | `native/darwin/arm64` |
+| [conftest_0.70.0_Darwin_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Darwin_x86_64.tar.gz) | 22.3 MiB | `native/darwin/x64` |
+| [conftest_0.70.0_Linux_arm64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_arm64.deb) | 19.5 MiB | `native/linux/arm64` |
+| [conftest_0.70.0_Linux_arm64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_arm64.rpm) | 19.5 MiB | `native/linux/arm64` |
+| [conftest_0.70.0_Linux_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_arm64.tar.gz) | 19.5 MiB | `native/linux/arm64` |
+| [conftest_0.70.0_Linux_ppc64le.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_ppc64le.deb) | 19.5 MiB | `other` |
+| [conftest_0.70.0_Linux_ppc64le.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_ppc64le.rpm) | 19.5 MiB | `other` |
+| [conftest_0.70.0_Linux_ppc64le.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_ppc64le.tar.gz) | 19.5 MiB | `native/unknown` |
+| [conftest_0.70.0_Linux_s390x.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_s390x.deb) | 21.0 MiB | `runtime/deb/s390x` |
+| [conftest_0.70.0_Linux_s390x.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_s390x.rpm) | 21.0 MiB | `other` |
+| [conftest_0.70.0_Linux_s390x.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_s390x.tar.gz) | 21.0 MiB | `native/unknown` |
+| [conftest_0.70.0_Linux_x86_64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_x86_64.deb) | 21.7 MiB | `native/linux/x64` |
+| [conftest_0.70.0_Linux_x86_64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_x86_64.rpm) | 21.7 MiB | `native/linux/x64` |
+| [conftest_0.70.0_Linux_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_x86_64.tar.gz) | 21.7 MiB | `native/linux/x64` |
+| [conftest_0.70.0_Windows_arm64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Windows_arm64.zip) | 19.7 MiB | `native/win/arm64` |
+| [conftest_0.70.0_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Windows_x86_64.zip) | 22.2 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **16** distros on [repology.org](https://repology.org/project/conftest). **5** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **16** distros on [repology.org](https://repology.org/project/conftest). **2** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.69.0` | ✅ latest |
+| Homebrew | `0.70.0` | ✅ latest |
 | Nix unstable | `0.63.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.69.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.69.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -106,4 +106,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:42:10Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:04:23Z._
