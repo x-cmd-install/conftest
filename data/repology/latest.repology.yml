@@ -6,7 +6,7 @@
   visiblename: conftest
   version: 0.69.0
   origversion: 0.69.0-alt1
-  status: newest
+  status: outdated
   summary: Conftest validates config files against Rego policies
   maintainers:
     - bogdanb@altlinux.org
@@ -20,7 +20,7 @@
   visiblename: conftest
   version: 0.69.0
   origversion: 0.69.0-1
-  status: newest
+  status: outdated
   summary: A utility to help you write tests against structured configuration data
   maintainers:
     - brokenpip3@aur
@@ -42,7 +42,7 @@
 - repo: homebrew
   srcname: conftest
   visiblename: conftest
-  version: 0.69.0
+  version: 0.70.0
   origversion: null
   status: newest
   summary: Test your configuration files using Open Policy Agent
@@ -138,7 +138,7 @@
   visiblename: conftest
   version: 0.69.0
   origversion: 0.69.0-1.1
-  status: newest
+  status: outdated
   summary: Tool to write tests against structured configuration data
   licenses:
     - Apache-2.0
@@ -184,7 +184,7 @@
   subrepo: main
   binname: conftest
   visiblename: conftest
-  version: 0.69.0
+  version: 0.70.0
   origversion: null
   status: newest
   licenses:
