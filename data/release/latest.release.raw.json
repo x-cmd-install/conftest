@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1603,
       "digest": "sha256:14c53e900a9782111de07a353ce6682adee0c5e437e45f1e6dfb7dcbf3ce7215",
-      "download_count": 394,
+      "download_count": 1093,
       "created_at": "2026-09-12T19:00:55Z",
       "updated_at": "2026-09-12T19:00:55Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 21687691,
       "digest": "sha256:e24e6784547f3b9c720b4b49ee5d9111559b25b399640eca531560ca4ea17682",
-      "download_count": 40,
+      "download_count": 129,
       "created_at": "2026-09-12T19:00:50Z",
       "updated_at": "2026-09-12T19:00:51Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 23429400,
       "digest": "sha256:fc2971cebaa7adfd1e7636005be200ac04b607a8a8815d72ccf7faaddb850905",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-09-12T19:00:50Z",
       "updated_at": "2026-09-12T19:00:51Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Darwin_x86_64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20441214,
       "digest": "sha256:25146f3f93f7ad041c3ebac0f8eacc74ef578c85cbbb83911011541768bc1aea",
-      "download_count": 5,
+      "download_count": 13,
       "created_at": "2026-09-12T19:00:54Z",
       "updated_at": "2026-09-12T19:00:55Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_arm64.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 20437195,
       "digest": "sha256:1702395299bfff81e66c417e9ca0e17714f2082db3550f857efde962e9a17b26",
-      "download_count": 96,
+      "download_count": 596,
       "created_at": "2026-09-12T19:00:47Z",
       "updated_at": "2026-09-12T19:00:49Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_arm64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 22732668,
       "digest": "sha256:e4a5d44c837ba97b70b1ab3cc0f7246594c2c92d9dd03377bbc1eddc5d666402",
-      "download_count": 23,
+      "download_count": 88,
       "created_at": "2026-09-12T19:00:52Z",
       "updated_at": "2026-09-12T19:00:53Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_x86_64.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 22736213,
       "digest": "sha256:8f2730a16ca412241cd9d3614ff445998ac6d9f486924411cac3aa7aabf78b41",
-      "download_count": 7,
+      "download_count": 17,
       "created_at": "2026-09-12T19:00:53Z",
       "updated_at": "2026-09-12T19:00:55Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_x86_64.rpm"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 22733919,
       "digest": "sha256:e738506fd808f7dc9794ce8e325f89b14932891a4841fe45f1f24c4a9bb3ed96",
-      "download_count": 2679,
+      "download_count": 16593,
       "created_at": "2026-09-12T19:00:47Z",
       "updated_at": "2026-09-12T19:00:49Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Linux_x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 20656373,
       "digest": "sha256:d231f2a3be79f3bc389ed28a6c4dea8d849170ac070551f1c56cda962017f262",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-09-12T19:00:47Z",
       "updated_at": "2026-09-12T19:00:49Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Windows_arm64.zip"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 23317998,
       "digest": "sha256:e067213cdcc17bd8c614508af3dada70eba2af81b5f54288d8a705a73d18180c",
-      "download_count": 17,
+      "download_count": 103,
       "created_at": "2026-09-12T19:00:47Z",
       "updated_at": "2026-09-12T19:00:49Z",
       "browser_download_url": "https://github.com/open-policy-agent/conftest/releases/download/v0.70.0/conftest_0.70.0_Windows_x86_64.zip"
