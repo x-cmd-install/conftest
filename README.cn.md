@@ -4,7 +4,7 @@
 
 Write tests against structured configuration data using the Open Policy Agent Rego query language
 
-[![x-cmd/install — conftest Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conftest.svg?lang=zh)](https://x-cmd.com/install/conftest)
+[![x-cmd/install — conftest Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/conftest.svg?lang=zh)](https://x-cmd.com/install/conftest)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install conftest
 
 ## 流行度
 
-- **Star**: 3,264 · **Fork**: 361 · **开放 issue**: 381 · **贡献者**: 141
+- **Star**: 3,265 · **Fork**: 362 · **开放 issue**: 381 · **贡献者**: 141
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install conftest
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 12 | 8 | 0 | 0 | 15 |
-| last60d | 2026-07-24 | 3 | 30 | 8 | 2 | 1 | 38 |
-| 90d | 2026-06-24 | 3 | 43 | 8 | 2 | 1 | 50 |
-| last180d | 2026-03-26 | 6 | 73 | 10 | 6 | 1 | 76 |
-| 360d | 2025-09-27 | 12 | 146 | 12 | 16 | 3 | 147 |
-| last720d | 2024-10-02 | 21 | 257 | 14 | 44 | 7 | 275 |
+| 30d | 2026-08-24 | 2 | 12 | 8 | 0 | 0 | 15 |
+| last60d | 2026-07-25 | 3 | 30 | 8 | 2 | 1 | 38 |
+| 90d | 2026-06-25 | 3 | 43 | 8 | 2 | 1 | 50 |
+| last180d | 2026-03-27 | 6 | 73 | 10 | 6 | 1 | 76 |
+| 360d | 2025-09-28 | 12 | 146 | 12 | 16 | 3 | 147 |
+| last720d | 2024-10-03 | 21 | 257 | 14 | 44 | 7 | 274 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ conftest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:13:47Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:24:36Z._

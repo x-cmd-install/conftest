@@ -4,7 +4,7 @@
 
 Write tests against structured configuration data using the Open Policy Agent Rego query language
 
-[![x-cmd/install — conftest Code Quality Monitoring Repo Card](https://repo.x-cmd.io/conftest.svg)](https://x-cmd.com/install/conftest)
+[![x-cmd/install — conftest Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/conftest.svg)](https://x-cmd.com/install/conftest)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,264 · **Forks**: 361 · **Open issues**: 381 · **Contributors**: 141
+- **Stars**: 3,265 · **Forks**: 362 · **Open issues**: 381 · **Contributors**: 141
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 12 | 8 | 0 | 0 | 15 |
-| last60d | 2026-07-24 | 3 | 30 | 8 | 2 | 1 | 38 |
-| 90d | 2026-06-24 | 3 | 43 | 8 | 2 | 1 | 50 |
-| last180d | 2026-03-26 | 6 | 73 | 10 | 6 | 1 | 76 |
-| 360d | 2025-09-27 | 12 | 146 | 12 | 16 | 3 | 147 |
-| last720d | 2024-10-02 | 21 | 257 | 14 | 44 | 7 | 275 |
+| 30d | 2026-08-24 | 2 | 12 | 8 | 0 | 0 | 15 |
+| last60d | 2026-07-25 | 3 | 30 | 8 | 2 | 1 | 38 |
+| 90d | 2026-06-25 | 3 | 43 | 8 | 2 | 1 | 50 |
+| last180d | 2026-03-27 | 6 | 73 | 10 | 6 | 1 | 76 |
+| 360d | 2025-09-28 | 12 | 146 | 12 | 16 | 3 | 147 |
+| last720d | 2024-10-03 | 21 | 257 | 14 | 44 | 7 | 274 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:46Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:24:35Z._
