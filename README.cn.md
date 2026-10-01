@@ -32,7 +32,7 @@ x install conftest
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install conftest
 
 ## 流行度
 
-- **Star**: 3,274 · **Fork**: 363 · **开放 issue**: 381 · **贡献者**: 142
+- **Star**: 3,275 · **Fork**: 363 · **开放 issue**: 381 · **贡献者**: 142
 
 ## 累计统计
 
-- **发布数**: 101 · **已合并 PR**: 848 · **开放 PR**: 9 · **已关闭 issue**: 355 · **开放 issue**: 26 · **提交数**: 1304
+- **发布数**: 101 · **已合并 PR**: 848 · **开放 PR**: 10 · **已关闭 issue**: 355 · **开放 issue**: 26 · **提交数**: 1304
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 15 | 1 | 0 | 0 | 21 |
-| last60d | 2026-08-01 | 4 | 31 | 2 | 2 | 1 | 42 |
-| 90d | 2026-07-02 | 4 | 44 | 2 | 2 | 1 | 52 |
-| last180d | 2026-04-03 | 6 | 75 | 4 | 6 | 1 | 79 |
-| 360d | 2025-10-05 | 13 | 146 | 6 | 14 | 3 | 146 |
-| last720d | 2024-10-10 | 22 | 262 | 8 | 44 | 6 | 283 |
+| 30d | 2026-09-01 | 3 | 15 | 2 | 0 | 0 | 21 |
+| last60d | 2026-08-02 | 4 | 30 | 3 | 2 | 1 | 42 |
+| 90d | 2026-07-03 | 4 | 44 | 3 | 2 | 1 | 52 |
+| last180d | 2026-04-04 | 6 | 75 | 5 | 6 | 1 | 79 |
+| 360d | 2025-10-06 | 12 | 146 | 7 | 14 | 3 | 146 |
+| last720d | 2024-10-11 | 22 | 262 | 9 | 44 | 6 | 283 |
 
 ## Release 资产
 
@@ -104,4 +104,4 @@ conftest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T06:40:18Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:49:58Z._
