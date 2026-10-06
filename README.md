@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.71.0` (2026-09-30)
-- **Last commit**: 2026-09-30
+- **Latest**: `v0.71.1` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 25
 
 ## Popularity
@@ -52,48 +52,48 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 101 · **Merged PRs**: 848 · **Open PRs**: 12 · **Closed issues**: 355 · **Open issues**: 26 · **Commits**: 1304
+- **Releases**: 102 · **Merged PRs**: 850 · **Open PRs**: 12 · **Closed issues**: 355 · **Open issues**: 26 · **Commits**: 1306
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 3 | 14 | 4 | 0 | 0 | 18 |
-| last60d | 2026-08-06 | 3 | 28 | 5 | 1 | 1 | 34 |
-| 90d | 2026-07-07 | 4 | 43 | 5 | 2 | 1 | 50 |
-| last180d | 2026-04-08 | 6 | 72 | 7 | 6 | 1 | 78 |
-| 360d | 2025-10-10 | 12 | 144 | 9 | 14 | 3 | 145 |
-| last720d | 2024-10-15 | 22 | 262 | 11 | 44 | 6 | 283 |
+| 30d | 2026-09-06 | 4 | 16 | 4 | 0 | 0 | 20 |
+| last60d | 2026-08-07 | 4 | 28 | 5 | 1 | 1 | 36 |
+| 90d | 2026-07-08 | 5 | 45 | 5 | 2 | 1 | 52 |
+| last180d | 2026-04-09 | 7 | 74 | 7 | 6 | 1 | 80 |
+| 360d | 2025-10-11 | 13 | 146 | 9 | 14 | 3 | 147 |
+| last720d | 2024-10-16 | 23 | 264 | 11 | 44 | 6 | 285 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/checksums.txt) | 2.4 KiB | `other` |
-| [conftest_0.71.0_Darwin_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Darwin_arm64.tar.gz) | 20.8 MiB | `native/darwin/arm64` |
-| [conftest_0.71.0_Darwin_arm64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Darwin_arm64.tar.gz.sbom.json) | 255.9 KiB | `native/darwin/arm64` |
-| [conftest_0.71.0_Darwin_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Darwin_x86_64.tar.gz) | 22.5 MiB | `native/darwin/x64` |
-| [conftest_0.71.0_Darwin_x86_64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Darwin_x86_64.tar.gz.sbom.json) | 256.0 KiB | `native/darwin/x64` |
-| [conftest_0.71.0_Linux_arm64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_arm64.deb) | 19.6 MiB | `native/linux/arm64` |
-| [conftest_0.71.0_Linux_arm64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_arm64.rpm) | 19.6 MiB | `native/linux/arm64` |
-| [conftest_0.71.0_Linux_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_arm64.tar.gz) | 19.6 MiB | `native/linux/arm64` |
-| [conftest_0.71.0_Linux_arm64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_arm64.tar.gz.sbom.json) | 255.7 KiB | `native/linux/arm64` |
-| [conftest_0.71.0_Linux_ppc64le.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_ppc64le.deb) | 19.6 MiB | `other` |
-| [conftest_0.71.0_Linux_ppc64le.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_ppc64le.rpm) | 19.6 MiB | `other` |
-| [conftest_0.71.0_Linux_ppc64le.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_ppc64le.tar.gz) | 19.6 MiB | `native/unknown` |
-| [conftest_0.71.0_Linux_ppc64le.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_ppc64le.tar.gz.sbom.json) | 256.0 KiB | `other` |
-| [conftest_0.71.0_Linux_s390x.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_s390x.deb) | 21.1 MiB | `runtime/deb/s390x` |
-| [conftest_0.71.0_Linux_s390x.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_s390x.rpm) | 21.1 MiB | `other` |
-| [conftest_0.71.0_Linux_s390x.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_s390x.tar.gz) | 21.1 MiB | `native/unknown` |
-| [conftest_0.71.0_Linux_s390x.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_s390x.tar.gz.sbom.json) | 255.7 KiB | `other` |
-| [conftest_0.71.0_Linux_x86_64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_x86_64.deb) | 21.8 MiB | `native/linux/x64` |
-| [conftest_0.71.0_Linux_x86_64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_x86_64.rpm) | 21.8 MiB | `native/linux/x64` |
-| [conftest_0.71.0_Linux_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_x86_64.tar.gz) | 21.8 MiB | `native/linux/x64` |
-| [conftest_0.71.0_Linux_x86_64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Linux_x86_64.tar.gz.sbom.json) | 255.9 KiB | `native/linux/x64` |
-| [conftest_0.71.0_Windows_arm64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Windows_arm64.zip) | 19.8 MiB | `native/win/arm64` |
-| [conftest_0.71.0_Windows_arm64.zip.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Windows_arm64.zip.sbom.json) | 259.2 KiB | `native/win/arm64` |
-| [conftest_0.71.0_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Windows_x86_64.zip) | 22.4 MiB | `native/win/x64` |
-| [conftest_0.71.0_Windows_x86_64.zip.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.0/conftest_0.71.0_Windows_x86_64.zip.sbom.json) | 259.4 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/checksums.txt) | 2.4 KiB | `other` |
+| [conftest_0.71.1_Darwin_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Darwin_arm64.tar.gz) | 20.8 MiB | `native/darwin/arm64` |
+| [conftest_0.71.1_Darwin_arm64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Darwin_arm64.tar.gz.sbom.json) | 255.9 KiB | `native/darwin/arm64` |
+| [conftest_0.71.1_Darwin_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Darwin_x86_64.tar.gz) | 22.5 MiB | `native/darwin/x64` |
+| [conftest_0.71.1_Darwin_x86_64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Darwin_x86_64.tar.gz.sbom.json) | 256.0 KiB | `native/darwin/x64` |
+| [conftest_0.71.1_Linux_arm64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_arm64.deb) | 19.6 MiB | `native/linux/arm64` |
+| [conftest_0.71.1_Linux_arm64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_arm64.rpm) | 19.6 MiB | `native/linux/arm64` |
+| [conftest_0.71.1_Linux_arm64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_arm64.tar.gz) | 19.6 MiB | `native/linux/arm64` |
+| [conftest_0.71.1_Linux_arm64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_arm64.tar.gz.sbom.json) | 255.7 KiB | `native/linux/arm64` |
+| [conftest_0.71.1_Linux_ppc64le.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_ppc64le.deb) | 19.6 MiB | `other` |
+| [conftest_0.71.1_Linux_ppc64le.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_ppc64le.rpm) | 19.6 MiB | `other` |
+| [conftest_0.71.1_Linux_ppc64le.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_ppc64le.tar.gz) | 19.6 MiB | `native/unknown` |
+| [conftest_0.71.1_Linux_ppc64le.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_ppc64le.tar.gz.sbom.json) | 256.0 KiB | `other` |
+| [conftest_0.71.1_Linux_s390x.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_s390x.deb) | 21.1 MiB | `runtime/deb/s390x` |
+| [conftest_0.71.1_Linux_s390x.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_s390x.rpm) | 21.1 MiB | `other` |
+| [conftest_0.71.1_Linux_s390x.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_s390x.tar.gz) | 21.1 MiB | `native/unknown` |
+| [conftest_0.71.1_Linux_s390x.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_s390x.tar.gz.sbom.json) | 255.7 KiB | `other` |
+| [conftest_0.71.1_Linux_x86_64.deb](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_x86_64.deb) | 21.8 MiB | `native/linux/x64` |
+| [conftest_0.71.1_Linux_x86_64.rpm](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_x86_64.rpm) | 21.8 MiB | `native/linux/x64` |
+| [conftest_0.71.1_Linux_x86_64.tar.gz](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_x86_64.tar.gz) | 21.8 MiB | `native/linux/x64` |
+| [conftest_0.71.1_Linux_x86_64.tar.gz.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Linux_x86_64.tar.gz.sbom.json) | 255.9 KiB | `native/linux/x64` |
+| [conftest_0.71.1_Windows_arm64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_arm64.zip) | 19.8 MiB | `native/win/arm64` |
+| [conftest_0.71.1_Windows_arm64.zip.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_arm64.zip.sbom.json) | 259.2 KiB | `native/win/arm64` |
+| [conftest_0.71.1_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_x86_64.zip) | 22.4 MiB | `native/win/x64` |
+| [conftest_0.71.1_Windows_x86_64.zip.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_x86_64.zip.sbom.json) | 259.4 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -104,4 +104,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:36:39Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:29:57Z._
