@@ -14,11 +14,11 @@ x install conftest
 
 ## Code insight
 
-Total: **14,075** lines of code across **243** files in the top 5 languages.
+Total: **14,084** lines of code across **243** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,375 | 662 | 1,785 | 113 |
+| Go | 11,384 | 665 | 1,784 | 113 |
 | OpenPolicyAgent | 1,245 | 68 | 271 | 84 |
 | Yaml | 481 | 2 | 5 | 33 |
 | Sh | 181 | 27 | 40 | 4 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,279 · **Forks**: 364 · **Open issues**: 381 · **Contributors**: 142
+- **Stars**: 3,278 · **Forks**: 364 · **Open issues**: 381 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 850 · **Open PRs**: 12 · **Closed issues**: 355 · **Open issues**: 26 · **Commits**: 1306
+- **Releases**: 102 · **Merged PRs**: 851 · **Open PRs**: 11 · **Closed issues**: 355 · **Open issues**: 26 · **Commits**: 1307
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 16 | 4 | 0 | 0 | 20 |
-| last60d | 2026-08-07 | 4 | 28 | 5 | 1 | 1 | 36 |
-| 90d | 2026-07-08 | 5 | 45 | 5 | 2 | 1 | 52 |
-| last180d | 2026-04-09 | 7 | 74 | 7 | 6 | 1 | 80 |
-| 360d | 2025-10-11 | 13 | 146 | 9 | 14 | 3 | 147 |
-| last720d | 2024-10-16 | 23 | 264 | 11 | 44 | 6 | 285 |
+| 30d | 2026-09-07 | 4 | 14 | 3 | 0 | 0 | 21 |
+| last60d | 2026-08-08 | 4 | 29 | 4 | 1 | 1 | 37 |
+| 90d | 2026-07-09 | 5 | 46 | 4 | 2 | 1 | 53 |
+| last180d | 2026-04-10 | 7 | 75 | 6 | 6 | 1 | 81 |
+| 360d | 2025-10-12 | 13 | 147 | 8 | 14 | 3 | 148 |
+| last720d | 2024-10-17 | 23 | 265 | 10 | 44 | 6 | 286 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:29:57Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:54:56Z._
