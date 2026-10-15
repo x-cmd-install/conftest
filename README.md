@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,283 · **Forks**: 364 · **Open issues**: 381 · **Contributors**: 142
+- **Stars**: 3,284 · **Forks**: 363 · **Open issues**: 381 · **Contributors**: 142
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 3 | 13 | 8 | 0 | 0 | 16 |
-| last60d | 2026-08-15 | 4 | 28 | 10 | 1 | 0 | 34 |
-| 90d | 2026-07-16 | 5 | 45 | 10 | 2 | 1 | 53 |
-| last180d | 2026-04-17 | 5 | 74 | 12 | 5 | 1 | 80 |
-| 360d | 2025-10-19 | 13 | 146 | 14 | 14 | 3 | 149 |
-| last720d | 2024-10-24 | 22 | 265 | 16 | 44 | 6 | 286 |
+| 30d | 2026-09-15 | 3 | 13 | 8 | 0 | 0 | 16 |
+| last60d | 2026-08-16 | 4 | 28 | 10 | 1 | 0 | 34 |
+| 90d | 2026-07-17 | 5 | 45 | 10 | 2 | 1 | 53 |
+| last180d | 2026-04-18 | 5 | 74 | 12 | 5 | 1 | 80 |
+| 360d | 2025-10-20 | 13 | 145 | 14 | 14 | 3 | 149 |
+| last720d | 2024-10-25 | 22 | 265 | 16 | 44 | 6 | 286 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:52:39Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:39:44Z._
