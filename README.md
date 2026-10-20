@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,284 · **Forks**: 363 · **Open issues**: 381 · **Contributors**: 143
+- **Stars**: 3,285 · **Forks**: 363 · **Open issues**: 381 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 857 · **Open PRs**: 16 · **Closed issues**: 355 · **Open issues**: 26 · **Commits**: 1310
+- **Releases**: 102 · **Merged PRs**: 857 · **Open PRs**: 18 · **Closed issues**: 355 · **Open issues**: 26 · **Commits**: 1310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 3 | 13 | 7 | 0 | 0 | 15 |
-| last60d | 2026-08-20 | 4 | 29 | 9 | 0 | 0 | 30 |
-| 90d | 2026-07-21 | 5 | 46 | 9 | 2 | 1 | 55 |
-| last180d | 2026-04-22 | 5 | 78 | 11 | 4 | 1 | 83 |
-| 360d | 2025-10-24 | 13 | 147 | 13 | 13 | 3 | 152 |
-| last720d | 2024-10-29 | 22 | 270 | 15 | 44 | 6 | 288 |
+| 30d | 2026-09-20 | 2 | 12 | 9 | 0 | 0 | 15 |
+| last60d | 2026-08-21 | 4 | 29 | 11 | 0 | 0 | 30 |
+| 90d | 2026-07-22 | 5 | 46 | 11 | 2 | 1 | 55 |
+| last180d | 2026-04-23 | 5 | 78 | 13 | 4 | 1 | 83 |
+| 360d | 2025-10-25 | 13 | 147 | 15 | 13 | 3 | 152 |
+| last720d | 2024-10-30 | 22 | 270 | 17 | 43 | 6 | 288 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:32:12Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:46:32Z._
