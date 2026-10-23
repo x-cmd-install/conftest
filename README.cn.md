@@ -43,27 +43,27 @@ x install conftest
 ## 发布
 
 - **最新版本**: `v0.71.1` (2026-10-06)
-- **最近提交**: 2026-10-15
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 25 个
 
 ## 流行度
 
-- **Star**: 3,288 · **Fork**: 364 · **开放 issue**: 381 · **贡献者**: 143
+- **Star**: 3,289 · **Fork**: 364 · **开放 issue**: 381 · **贡献者**: 143
 
 ## 累计统计
 
-- **发布数**: 102 · **已合并 PR**: 857 · **开放 PR**: 18 · **已关闭 issue**: 355 · **开放 issue**: 26 · **提交数**: 1310
+- **发布数**: 102 · **已合并 PR**: 860 · **开放 PR**: 15 · **已关闭 issue**: 355 · **开放 issue**: 26 · **提交数**: 1313
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 9 | 9 | 0 | 0 | 15 |
-| last60d | 2026-08-23 | 4 | 27 | 11 | 0 | 0 | 30 |
-| 90d | 2026-07-24 | 5 | 45 | 11 | 2 | 1 | 55 |
-| last180d | 2026-04-25 | 5 | 78 | 11 | 4 | 1 | 83 |
-| 360d | 2025-10-27 | 13 | 147 | 15 | 13 | 3 | 152 |
-| last720d | 2024-11-01 | 22 | 269 | 17 | 43 | 6 | 288 |
+| 30d | 2026-09-23 | 2 | 12 | 6 | 0 | 0 | 18 |
+| last60d | 2026-08-24 | 4 | 30 | 8 | 0 | 0 | 33 |
+| 90d | 2026-07-25 | 5 | 48 | 8 | 2 | 1 | 58 |
+| last180d | 2026-04-26 | 5 | 81 | 8 | 4 | 1 | 86 |
+| 360d | 2025-10-28 | 13 | 150 | 12 | 13 | 3 | 155 |
+| last720d | 2024-11-02 | 22 | 272 | 14 | 43 | 6 | 290 |
 
 ## Release 资产
 
@@ -95,6 +95,16 @@ x install conftest
 | [conftest_0.71.1_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_x86_64.zip) | 22.4 MiB | `native/win/x64` |
 | [conftest_0.71.1_Windows_x86_64.zip.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_x86_64.zip.sbom.json) | 259.4 KiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/conftest) 上共有 **16** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.71.1` | ✅ latest |
+| Nix unstable | `0.71.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.71.1` | ✅ latest |
+
 ## 改进这些数据
 
 conftest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `conftest` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -104,4 +114,4 @@ conftest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:45:11Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:48:27Z._
