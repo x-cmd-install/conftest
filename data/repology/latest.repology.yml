@@ -161,7 +161,7 @@
   binname: conftest
   visiblename: devel/conftest
   version: 0.70.1
-  origversion: null
+  origversion: 0.70.1nb1
   status: outdated
   summary: Tests structured configuration data via OPA Rego query language
   maintainers:
