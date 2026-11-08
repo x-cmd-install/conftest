@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 8 | 11 | 0 | 2 | 8 |
-| last60d | 2026-09-08 | 4 | 26 | 16 | 0 | 2 | 33 |
-| 90d | 2026-08-09 | 4 | 41 | 17 | 1 | 3 | 52 |
-| last180d | 2026-05-11 | 5 | 83 | 17 | 4 | 3 | 88 |
-| 360d | 2025-11-12 | 12 | 142 | 21 | 13 | 4 | 148 |
-| last720d | 2024-11-17 | 22 | 272 | 23 | 43 | 8 | 289 |
+| 30d | 2026-10-09 | 0 | 7 | 11 | 0 | 2 | 6 |
+| last60d | 2026-09-09 | 4 | 25 | 16 | 0 | 2 | 24 |
+| 90d | 2026-08-10 | 4 | 41 | 17 | 1 | 3 | 49 |
+| last180d | 2026-05-12 | 5 | 82 | 17 | 4 | 3 | 87 |
+| 360d | 2025-11-13 | 12 | 142 | 21 | 13 | 4 | 148 |
+| last720d | 2024-11-18 | 22 | 272 | 23 | 43 | 8 | 289 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:02:36Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:58:14Z._
