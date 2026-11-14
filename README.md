@@ -14,11 +14,11 @@ x install conftest
 
 ## Code insight
 
-Total: **14,084** lines of code across **243** files in the top 5 languages.
+Total: **14,151** lines of code across **243** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,384 | 665 | 1,784 | 113 |
+| Go | 11,451 | 678 | 1,786 | 113 |
 | OpenPolicyAgent | 1,245 | 68 | 271 | 84 |
 | Yaml | 481 | 2 | 5 | 33 |
 | Sh | 181 | 27 | 40 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.71.1` (2026-10-06)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-13
 - **Assets in release**: 25
 
 ## Popularity
 
-- **Stars**: 3,298 · **Forks**: 367 · **Open issues**: 383 · **Contributors**: 144
+- **Stars**: 3,298 · **Forks**: 369 · **Open issues**: 383 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 869 · **Open PRs**: 18 · **Closed issues**: 355 · **Open issues**: 28 · **Commits**: 1323
+- **Releases**: 102 · **Merged PRs**: 870 · **Open PRs**: 18 · **Closed issues**: 355 · **Open issues**: 28 · **Commits**: 1324
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 13 | 5 | 0 | 2 | 13 |
-| last60d | 2026-09-14 | 3 | 28 | 9 | 0 | 2 | 31 |
-| 90d | 2026-08-15 | 4 | 46 | 11 | 1 | 2 | 56 |
-| last180d | 2026-05-17 | 5 | 86 | 11 | 4 | 3 | 94 |
-| 360d | 2025-11-18 | 12 | 148 | 15 | 13 | 4 | 155 |
-| last720d | 2024-11-23 | 22 | 276 | 17 | 43 | 8 | 296 |
+| 30d | 2026-10-15 | 0 | 13 | 5 | 0 | 2 | 14 |
+| last60d | 2026-09-15 | 3 | 29 | 9 | 0 | 2 | 32 |
+| 90d | 2026-08-16 | 4 | 47 | 11 | 1 | 2 | 57 |
+| last180d | 2026-05-18 | 5 | 87 | 11 | 4 | 3 | 95 |
+| 360d | 2025-11-19 | 12 | 149 | 15 | 13 | 4 | 156 |
+| last720d | 2024-11-24 | 22 | 277 | 17 | 43 | 8 | 297 |
 
 ## Release assets
 
@@ -114,4 +114,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:57:38Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:12:50Z._
