@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,300 · **Forks**: 372 · **Open issues**: 382 · **Contributors**: 145
+- **Stars**: 3,302 · **Forks**: 373 · **Open issues**: 382 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 102 · **Merged PRs**: 876 · **Open PRs**: 23 · **Closed issues**: 354 · **Open issues**: 28 · **Commits**: 1330
+- **Releases**: 102 · **Merged PRs**: 876 · **Open PRs**: 24 · **Closed issues**: 354 · **Open issues**: 28 · **Commits**: 1330
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 16 | 9 | 0 | 2 | 15 |
-| last60d | 2026-09-25 | 2 | 28 | 14 | 0 | 2 | 27 |
-| 90d | 2026-08-26 | 4 | 45 | 15 | 0 | 2 | 50 |
-| last180d | 2026-05-28 | 5 | 88 | 16 | 4 | 3 | 101 |
-| 360d | 2025-11-29 | 11 | 150 | 20 | 12 | 4 | 151 |
-| last720d | 2024-12-04 | 22 | 281 | 22 | 42 | 7 | 300 |
+| 30d | 2026-10-26 | 0 | 12 | 10 | 0 | 2 | 15 |
+| last60d | 2026-09-26 | 2 | 28 | 15 | 0 | 2 | 27 |
+| 90d | 2026-08-27 | 4 | 45 | 16 | 0 | 2 | 50 |
+| last180d | 2026-05-29 | 5 | 88 | 17 | 4 | 3 | 101 |
+| 360d | 2025-11-30 | 11 | 150 | 21 | 12 | 4 | 151 |
+| last720d | 2024-12-05 | 22 | 281 | 23 | 42 | 7 | 300 |
 
 ## Release assets
 
@@ -95,16 +95,6 @@ Lowest-scoring checks:
 | [conftest_0.71.1_Windows_x86_64.zip](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_x86_64.zip) | 22.4 MiB | `native/win/x64` |
 | [conftest_0.71.1_Windows_x86_64.zip.sbom.json](https://github.com/open-policy-agent/conftest/releases/download/v0.71.1/conftest_0.71.1_Windows_x86_64.zip.sbom.json) | 259.4 KiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **16** distros on [repology.org](https://repology.org/project/conftest). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.71.1` | ✅ latest |
-| Nix unstable | `0.71.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.71.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `conftest` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -114,4 +104,4 @@ Install metadata for conftest lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:25:12Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:28:52Z._
